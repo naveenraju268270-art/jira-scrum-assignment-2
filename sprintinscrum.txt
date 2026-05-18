@@ -1,0 +1,26 @@
+3. What is a Sprint in Scrum, and how does the Sprint Timeline help the development team? 
+
+Description:
+===========
+A Sprint is a fixed time period (usually 1–4 weeks) in Scrum during which a team works to complete a set of User Stories from the backlog. It delivers a usable product increment at the end of each cycle.
+A Sprint is a short, time-boxed iteration where development work is completed.
+It helps teams focus on a defined set of tasks within a limited time.
+Each Sprint ends with a review and improvement (retrospective).
+
+
+->The Sprint Timeline shows the progress of work across the sprint duration (start → end). It helps teams track task status, identify delays, and ensure timely delivery.
+
+Sprint timline:
+===============
+
+Sprint Timeline visually tracks progress of tasks day-by-day.
+It helps identify delays, blockers, and workload distribution.
+It ensures the team stays on schedule to complete sprint goals.
+
+Additional Points:
+==================
+Sprint starts with Sprint Planning and ends with Review + Retrospective
+Daily progress is monitored using Daily Stand-up meetings
+Tools like JIRA provide Burndown Charts to visualize timeline progress
+Helps improve team productivity and predictability
+Ensures continuous delivery and feedback

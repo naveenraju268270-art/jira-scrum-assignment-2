@@ -1,0 +1,53 @@
+1. What is the purpose of creating a project in JIRA, and what are the basic steps involved in project creation? 
+
+Description:
+============       The purpose of creating a project in JIRA is to provide a central workspace where all work items—like Epics, User Stories, Tasks, and Bugs—are organized and tracked. 
+                   It helps teams manage the backlog, plan sprints, monitor progress through boards, and visualize timelines, ensuring smooth collaboration and delivery in Agile/Scrum environments.
+
+Purpose of Creating a JIRA Project:
+==================================
+ > Organize all work in one place (Backlog, Sprint, Board)
+ > Break large work into Epics → User Stories → Tasks
+ > Track progress using Scrum/Kanban boards
+ > Plan and manage Sprints
+ > Provide visibility through Timeline/Roadmap
+ > Enable team collaboration and reporting
+
+
+Basic Steps to Create a Project in JIRA:
+=======================================
+
+1.Login to JIRA:
+===============         Access your JIRA dashboard.
+2.Navigate to Projects:
+======================    Click on “Projects” in the top menu.
+3.Click “Create Project”:
+=========================       Start creating a new project.
+4.Choose a Template:
+====================
+                        Select based on workflow:
+                        Scrum (for sprint-based work)
+                        Kanban (continuous flow)
+                        Bug tracking, etc
+5.Select Project Type:
+======================
+                       Team-managed (simple, flexible)
+                       Company-managed (advanced control)
+6.Enter Project Details:
+=======================       Project Name
+                              Project Key
+                              Project Lead
+7.Configure Settings:
+====================
+                     Permissions, issue types (Epic, Story, Task), workflows
+                  Create the Project
+                  Click “Create”
+                
+After Project Creation (Based on Today’s Session):
+=================================================
+Add Epics to define large features
+Create User Stories under Epics
+Maintain tasks in the Backlog
+Start a Sprint and move stories to it
+Track work using Board (active sprint view) vs Backlog (planning view)
+Scrum Master ensures smooth process and removes blockers

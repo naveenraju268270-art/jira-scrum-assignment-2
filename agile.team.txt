@@ -1,0 +1,40 @@
+What are the key responsibilities of a Scrum Master in an Agile team?
+
+Key Responsibilities of a Scrum Master in an Agile Team:
+=======================================================
+
+A Scrum Master in Scrum is responsible for ensuring that the team follows Agile principles, removes obstacles, and helps the team work efficiently to achieve sprint goals.
+
+Description:
+===========
+
+A Scrum Master facilitates Agile practices and ensures smooth team workflow.
+They remove blockers and support the development team.
+They act as a bridge between the team and stakeholders.
+
+Main Responsibilities:
+=====================
+
+Facilitates Scrum Events
+Conducts Sprint Planning, Daily Stand-ups, Sprint Review, and Retrospective meetings.
+Removes Impediments
+Identifies and resolves issues that slow down the team’s progress.
+Ensures Agile Practices
+Makes sure the team follows Scrum rules and principles properly.
+Supports the Team
+Guides developers, encourages collaboration, and improves productivity.
+Protects the Team
+Shields the team from external distractions and unnecessary interruptions.
+Improves Process
+Continuously works on improving workflows and team performance.
+
+
+Additional Description:
+======================
+
+Works closely with the Product Owner to manage the backlog
+Helps in sprint planning and estimation
+Tracks progress using tools like JIRA
+Promotes communication, transparency, and teamwork
+Ensures timely delivery of sprint goals
+Acts as a coach and mentor rather than a manager

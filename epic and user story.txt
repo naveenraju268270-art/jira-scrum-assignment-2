@@ -1,0 +1,46 @@
+2. Explain the difference between an Epic and a User Story in Agile methodology with one. example each 
+
+Difference between Epic and User Story (Agile):
+==============================================
+
+Epic:
+====
+A large body of work that can be broken down into multiple smaller tasks or user stories. It usually represents a big feature or goal and spans multiple sprints.
+
+User Story:
+==========
+A small, specific requirement describing a feature from the end-user perspective. It is short, simple, and can be completed within a single sprint.
+
+Key Differences:
+===============
+
+Size: Epic is large; User Story is small
+====
+
+Time: Epic takes multiple sprints; User Story fits in one sprint
+=====
+
+Detail: Epic is high-level; User Story is detailed and specific
+======
+
+Purpose: Epic groups related stories; User Story delivers a small value
+=======
+
+ Examples:
+ =========
+
+Epic Example:
+============
+“Develop an Online Shopping System”
+(Contains multiple features like login, cart, payment, etc.)
+
+User Story Example:
+==================
+“As a user, I want to add items to my cart so that I can purchase them later.”
+
+Additional Points:
+=================
+An Epic is divided into multiple User Stories
+User Stories follow format: As a [user], I want [feature], so that [benefit]
+Epics help in long-term planning, while User Stories help in sprint execution
+Both are managed inside tools like JIRA

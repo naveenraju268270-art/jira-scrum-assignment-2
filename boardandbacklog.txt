@@ -1,0 +1,85 @@
+Differentiate between the Board and Backlog sections in JIRA.
+
+Difference between Board and Backlog in JIRA:
+============================================
+Board:
+=====
+The Board is a visual workflow view where tasks are shown in columns like To Do, In Progress, Done. It is mainly used during an active sprint to track real-time progress.
+Backlog:
+The Backlog is a planning area that contains all pending tasks, user stories, and epics. It is used to prioritize and prepare work for upcoming sprints.
+
+(Board vs Backlog):
+==================
+Board shows current sprint work in a visual flow.
+Backlog stores and prioritizes future work items.
+Board is for execution; Backlog is for planning.
+
+Key Differences:
+===============
+
+
+Purpose:
+=======
+
+
+Board → Track progress
+
+
+Backlog → Plan and organize tasks
+
+
+
+
+Usage Time:
+===========
+
+Board → During sprint
+
+
+Backlog → Before sprint
+
+
+
+
+View Type:
+=========
+
+
+Board → Columns (workflow stages)
+
+
+Backlog → List of tasks/stories
+
+
+
+
+Focus:
+=====
+
+
+Board → Active work
+
+
+Backlog → Upcoming work
+
+
+
+
+
+Additional Description:
+======================
+
+
+Backlog helps the team decide what to do next, while the Board shows what is being done now
+
+
+In Scrum, tasks move from Backlog → Sprint → Board
+
+
+Board provides real-time updates, improving transparency
+
+
+Backlog supports prioritization, estimation, and sprint planning
+
+
+Both are essential for smooth Agile workflow management
